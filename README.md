@@ -15,7 +15,7 @@ The entity (internal) microservice:
 	
 The edge (public) API server:
 	
-	http://localhost:8088/top-brands
+	http://localhost:8089/top-brands
 	
 
 This code is based on the tutorial:  
